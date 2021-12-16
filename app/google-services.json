@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1015946316595",
+    "firebase_url": "https://futurefarmj-default-rtdb.firebaseio.com",
+    "project_id": "futurefarmj",
+    "storage_bucket": "futurefarmj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015946316595:android:a483d9d2daf4c27bfe4c46",
+        "android_client_info": {
+          "package_name": "com.example.futurefarmj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015946316595-fn3kg0vpi28nbqusg0lko0g14pt8r8p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN2EXkAQsGW2HqBfJDPTcXgnDNj0jw-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015946316595-fn3kg0vpi28nbqusg0lko0g14pt8r8p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015946316595:android:4bab5492a15cc55afe4c46",
+        "android_client_info": {
+          "package_name": "com.example.futurefarmjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015946316595-fn3kg0vpi28nbqusg0lko0g14pt8r8p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxN2EXkAQsGW2HqBfJDPTcXgnDNj0jw-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015946316595-fn3kg0vpi28nbqusg0lko0g14pt8r8p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
